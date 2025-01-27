@@ -90,7 +90,7 @@ Let’s connect and explore how we can collaborate in shaping the future of tech
                 className="flex items-center gap-3"       
                 >
                   <div className="lg:mt-[-40] mb-[10] mb-10">
-                    <a href="/about"><ConnectButton title="RESUME" /></a>
+                    <a href="/about"><ConnectButton title="./ THEVINDU / RESUME" /></a>
                   </div>
                 </motion.div>
 
