@@ -102,31 +102,7 @@ Let’s connect and explore how we can collaborate in shaping the future of tech
                   transition={{ duration: 0.8 }}
                   className="space-y-9"
                 >
-                  <h2 className="text-2xl uppercase font-semibold bg-gradient-to-r relative from-rose-600 via-black-100 to-gray-600 bg-clip-text text-transparent inline-block">EDUCATION</h2>
-                  <div className="space-y-2 relative">
-                    <div className="flex items-center justify-between">
-                      <div className="space-y-1">
-                        <p className="text-sm text-gray-600">Jan, 2025 - Present</p>
-                        <p className="font-medium">BSc, Computer Science</p>
-                        <p className="text-red-600 text-bold">University of Westminster</p>
-                      </div>
-                    </div>
-
-                    <p className="text-gray-600 text-sm text-justify">Currently pursuing a Bachelor’s degree in Computer Science at the University of Westminster, focusing on advanced computing concepts, innovative problem-solving, and cutting-edge technologies. Excited to expand my expertise in areas such as software development, data management, and modern web technologies while collaborating with diverse peers and industry professionals to shape impactful solutions for real-world challenges.</p>
-                  </div>
-
-
-                  <div className="space-y-2 relative">
-                    <div className="flex items-center justify-between">
-                      <div className="space-y-1">
-                        <p className="text-sm text-gray-600">Mar, 2024 - Jan, 2025</p>
-                        <p className="font-medium">Dip, Software Engineering</p>
-                        <p className="text-red-600 text-bold">National Institute of Business Management</p>
-                      </div>
-                    </div>
-
-                    <p className="text-gray-600 text-sm text-justify">Completed a comprehensive curriculum in Computer Science, covering foundational and advanced topics such as Programming Fundamentals, Object-Oriented Programming, and Software Engineering. Gained hands-on experience in areas like Web Development, GUI Application Development, and Enterprise Application Development. Developed a strong understanding of core subjects including Computer Networks, Operating Systems, and Mathematics for Computing, while honing effective communication and problem-solving skills through collaborative projects like the Business Solutions Development Project.</p>
-                  </div>
+                  
                 </motion.section>
                 
                 <motion.section
